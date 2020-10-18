@@ -1,2 +1,3 @@
 # authentication-system
-Просто система автентифікації та відновлення пароля на PHP
+
+Authentication and forgotten password recovery systems using PHP
